@@ -4,3 +4,4 @@
 * 2 jogo de bola feito com javascript / ball game made of javascript
 * 3 gerador de senhas aleatorias  / random password generator
 * 4 calculadora de idade / age calculator 
+* 5 contador de palavras e caracteres / word and character counter
